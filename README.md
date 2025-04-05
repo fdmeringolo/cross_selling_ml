@@ -1,6 +1,6 @@
 # Cross Selling using Machine Learning
 
-This repository contains code and resources for a machine learning project focused on cross-selling. Check the specification file for more information.
+This project aims to create a predictive model capable of identifying potential cross-selling opportunities for existing customers, determining those who might be interested in purchasing an additional policy for their vehicle. Check the specification file for more information.
 
 ## Files
 
