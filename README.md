@@ -5,7 +5,7 @@ This repository contains code and resources for a machine learning project focus
 ## Files
 
 - **`README.md`**: This file. Provides an overview of the project and its structure.
-- **`notebooks/`**: Jupyter notebooks for exploratory data analysis and model development.
-- **`specification/`**: detailed specifications about project objectives and requirements.
+- **`notebooks`**: Jupyter notebook for exploratory data analysis and model development.
+- **`specifications`**: detailed specifications about project objectives and requirements.
 
 
